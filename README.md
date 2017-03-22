@@ -10,6 +10,7 @@ This project was bootstrapped with [Spring Boot](https://projects.spring.io/spri
 
 ## TODO
 - Handle more exceptions and return user friendly messages. 
+- Show more useful information
 
 ## Start the server
 There are many ways to run Spring Boot project. The easiest way is using Maven Plugin:
